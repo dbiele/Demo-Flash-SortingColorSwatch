@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_frame content/demo_content" itemID="557af661-00000362" linkageExportForAS="true" linkageBaseClass="com.dbiele.app.customrenderers.view.Demonstration" linkageClassName="demon_content" lastModified="1434121825" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="demo_content">
+      <layers>
+        <DOMLayer name="draggers" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="COMPONENTS/dragger_mc" name="sample_dragger" selected="true">
+                  <matrix>
+                    <Matrix tx="1016" ty="40.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49" y="49"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="targets" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_frame content/demo_content_assets/blue_target" name="droptarget_v1">
+                  <matrix>
+                    <Matrix tx="98.05" ty="473.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86" y="86"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="7" blurY="7" color="#999999" distance="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_frame content/demo_content_assets/green_target" name="droptarget_v3">
+                  <matrix>
+                    <Matrix tx="746.95" ty="473.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86" y="86"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="7" blurY="7" color="#999999" distance="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_frame content/demo_content_assets/yellow_target" name="droptarget_v2">
+                  <matrix>
+                    <Matrix tx="422.5" ty="473.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86" y="86"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="7" blurY="7" color="#999999" distance="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText width="560" height="46.55" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="227.95" ty="285.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Select the moving color swatches</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="35" bitmapSize="700" face="SegoeUI"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="placeholder content" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="GLOBAL/hit_area" name="placeholder">
+                  <matrix>
+                    <Matrix a="101.600006103516" d="69"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

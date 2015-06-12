@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="COMPONENTS/_assets/dragger_v1/dragger_fill_mc" itemID="5579ec47-0000000d" lastModified="1434053703">
+  <timeline>
+    <DOMTimeline name="dragger_fill_mc">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#66CCFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!10 0S2|1990 0!1990 0[2000 0 2000 10!2000 10|2000 1990!2000 1990[2000 2000 1990 2000!1990 2000|10 2000!10 2000[0 2000 0 1990!0 1990|0 10!0 10[0 0 10 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

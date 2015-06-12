@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="COMPONENTS/dragger_mc" itemID="5579e893-00000005" linkageExportForAS="true" linkageClassName="dragger_style_1" lastModified="1434067079">
+  <timeline>
+    <DOMTimeline name="dragger_mc">
+      <layers>
+        <DOMLayer name="hitarea" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="GLOBAL/hit_area" name="hit_area_mc" selected="true">
+                  <matrix>
+                    <Matrix a="9.99990844726563" d="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="content" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="COMPONENTS/_assets/dragger_v1/dragger_content_mc" name="content_mc">
+                  <transformationPoint>
+                    <Point x="49" y="49"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="11" blurY="11" color="#999999" distance="6" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

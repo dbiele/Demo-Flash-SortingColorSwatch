@@ -1,0 +1,100 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1016" height="690" frameRate="60" currentTimeline="1" xflVersion="2.5" creatorInfo="Adobe Flash Professional CC" platform="Windows" versionInfo="Saved by Adobe Flash Windows 14.2 build 20" majorVersion="14" minorVersion="2" buildNumber="20" viewAngle3D="87.7588033426291" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+     <folders>
+          <DOMFolderItem name="_frame content" itemID="5579f2d1-0000008e" isExpanded="true"/>
+          <DOMFolderItem name="_frame content/demo_content_assets" itemID="557af666-00000363" isExpanded="true"/>
+          <DOMFolderItem name="COMPONENTS" itemID="5579e930-00000266"/>
+          <DOMFolderItem name="COMPONENTS/_assets" itemID="5579ea45-00000277" isExpanded="true"/>
+          <DOMFolderItem name="COMPONENTS/_assets/dragger_v1" itemID="5579ee30-00000032"/>
+          <DOMFolderItem name="COMPONENTS/_assets/target_v1" itemID="5579ee33-00000033" isExpanded="true"/>
+          <DOMFolderItem name="GLOBAL" itemID="5579e935-0000026a"/>
+     </folders>
+     <symbols>
+          <Include href="_frame content/demo_content.xml" itemID="557af661-00000362" lastModified="1434121825"/>
+          <Include href="_frame content/demo_content_assets/blue_target.xml" loadImmediate="false" itemID="557af1bd-000002ab" lastModified="1434120723"/>
+          <Include href="_frame content/demo_content_assets/green_target.xml" loadImmediate="false" itemID="557af252-000002ea" lastModified="1434120808"/>
+          <Include href="_frame content/demo_content_assets/yellow_target.xml" loadImmediate="false" itemID="557af232-000002d8" lastModified="1434120791"/>
+          <Include href="COMPONENTS/_assets/dragger_v1/dragger_content_mc.xml" loadImmediate="false" itemID="5579ec25-0000000b" lastModified="1434056491"/>
+          <Include href="COMPONENTS/_assets/dragger_v1/dragger_fill_mc.xml" loadImmediate="false" itemID="5579ec47-0000000d" lastModified="1434053703"/>
+          <Include href="COMPONENTS/_assets/dragger_v1/dragger_image_mc.xml" loadImmediate="false" itemID="5579f4f7-00000301" lastModified="1434055927"/>
+          <Include href="COMPONENTS/_assets/target_v1/drop_target_colorswatch_mc.xml" loadImmediate="false" itemID="5579f63e-00000319" lastModified="1434056254"/>
+          <Include href="COMPONENTS/_assets/target_v1/target_content_mc.xml" loadImmediate="false" itemID="5579ed99-00000023" lastModified="1434056343"/>
+          <Include href="COMPONENTS/_assets/target_v1/target_fill_mc.xml" loadImmediate="false" itemID="5579eec1-0000003a" lastModified="1434054337"/>
+          <Include href="COMPONENTS/_assets/target_v1/target_image_mc.xml" loadImmediate="false" itemID="5579ef38-00000044" lastModified="1434054456"/>
+          <Include href="COMPONENTS/dragger_mc.xml" itemID="5579e893-00000005" lastModified="1434067079"/>
+          <Include href="COMPONENTS/drop_target.xml" loadImmediate="false" itemID="5579f553-00000307" lastModified="1434120506"/>
+          <Include href="GLOBAL/hit_area.xml" loadImmediate="false" itemID="5579edf1-00000027" lastModified="1434055561"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="1">
+               <layers>
+                    <DOMLayer name="content" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_frame content/demo_content" selected="true">
+                                             <transformationPoint>
+                                                  <Point x="398.55" y="291.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="navigation" color="#9933CC" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="background" color="#4F80FF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#EDEDED"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!0 0|20320 0!20320 0|20320 13800!20320 13800|0 13800!0 13800|0 0"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="13720" publishTime="1434121648"/>
+          <PublishItem publishSize="37401" publishTime="1434121621"/>
+          <PublishItem publishSize="11605" publishTime="1434121217"/>
+          <PublishItem publishSize="11605" publishTime="1434121177"/>
+          <PublishItem publishSize="11664" publishTime="1434121086"/>
+          <PublishItem publishSize="11665" publishTime="1434121068"/>
+          <PublishItem publishSize="11644" publishTime="1434120988"/>
+          <PublishItem publishSize="11644" publishTime="1434120952"/>
+          <PublishItem publishSize="11648" publishTime="1434120912"/>
+          <PublishItem publishSize="11461" publishTime="1434120474"/>
+          <PublishItem publishSize="11453" publishTime="1434120452"/>
+          <PublishItem publishSize="11437" publishTime="1434120420"/>
+          <PublishItem publishSize="624" publishTime="1434120409"/>
+          <PublishItem publishSize="11422" publishTime="1434120369"/>
+          <PublishItem publishSize="11422" publishTime="1434120353"/>
+          <PublishItem publishSize="11451" publishTime="1434120259"/>
+          <PublishItem publishSize="624" publishTime="1434120127"/>
+          <PublishItem publishSize="11297" publishTime="1434119485"/>
+          <PublishItem publishSize="11298" publishTime="1434119475"/>
+          <PublishItem publishSize="11303" publishTime="1434119461"/>
+     </publishHistory>
+</DOMDocument>

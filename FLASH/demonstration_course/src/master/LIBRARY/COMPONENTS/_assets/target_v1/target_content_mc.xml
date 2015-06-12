@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="COMPONENTS/_assets/target_v1/target_content_mc" itemID="5579ed99-00000023" lastModified="1434056343">
+  <timeline>
+    <DOMTimeline name="target_content_mc">
+      <layers>
+        <DOMLayer name="color swatch" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="COMPONENTS/_assets/target_v1/drop_target_colorswatch_mc" name="colorswatch_mc">
+                  <matrix>
+                    <Matrix ty="129"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86" y="21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fill" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="COMPONENTS/_assets/target_v1/target_fill_mc" name="colorfill_mc">
+                  <transformationPoint>
+                    <Point x="86" y="86"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="image" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="COMPONENTS/_assets/target_v1/target_image_mc" name="image_mc">
+                  <transformationPoint>
+                    <Point x="86" y="86"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
