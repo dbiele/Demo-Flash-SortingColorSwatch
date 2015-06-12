@@ -8,6 +8,13 @@ I created the `XFL` and `AS3` to be flexible, easy to modify and easy to add mor
 ## View Sorting in Action ##
 Run the master.swf located in `
 FLASH > demonstration_course > final.`
+
+#Folder Structure#
+**CREATIVE:** Contains sketches and images used for inspiration.
+
+**FLASH:** Contains the AS3 and XFL files.
+
+**PROJECT_MANAGEMENT:** Contains the project description and the comments.docx which contains my comments and feedback. README.md is identical to comments.docx.
 ## 1.1	UI ##
 Create a clean UI with white space. Shadows were used to show depth. Text prompts the user to do something.
 ## 1.2	Code ##
